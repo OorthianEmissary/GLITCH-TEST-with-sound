@@ -34,7 +34,7 @@ var LEAVE = ["Ļ̵̩͉̻̖̫͚̬͈͉̙̳͉͔͉̞̠̏̐ͬ̇͊͂̀ͦ̌ͨͥͨ͝͡�
 
 
 function preload() {
-    song.loadSound("MACINTOSH.mp3")
+    song.loadSound('MACINTOSH.mp3')
 }
 
 function setup() {
